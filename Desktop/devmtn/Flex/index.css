@@ -1,0 +1,29 @@
+header {
+    background: pink;
+    width; 100vw;
+    height: 15vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.header-items {
+  list-style-type: none;  
+  display: flex;
+  justify-content: space-between;
+  width: 80vw;
+}
+#name {
+    width: 65vw;
+    display: flex;
+    justify-content: flex-start;
+    font-size: 45px;
+}
+#header-right {
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-evenly;
+    width: 35vw;
+}
+
+

@@ -1,0 +1,48 @@
+body {
+    background-color: lightblue;
+    background-image:url('https://images.unsplash.com/photo-1515462277126-2dd0c162007a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60');
+    
+}
+
+#twitter {
+    position:absolute;
+    right: 300px;
+     font-size: 45px;
+}
+#devmtn {
+    position: absolute;
+    right: 700px;
+    font-size: 45px;
+}
+#facebook {
+    position: absolute;
+    left: 100px;
+    font-size: 45px;
+    
+}
+#reset {
+    position: absolute;
+    top: 250px;
+    left: 585px;
+}
+#plus {
+    position: absolute;
+    top: 200px;
+    left: 650px;
+}
+#minus {
+    position: absolute;
+    top:200px;
+    left: 550px;
+}
+#counter {
+    position: absolute;
+    top: 170px;
+    left: 605px;
+}
+
+
+
+
+
+

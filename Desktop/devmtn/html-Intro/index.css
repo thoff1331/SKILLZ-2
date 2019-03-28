@@ -1,0 +1,56 @@
+P {
+    color: red;
+}
+body {
+    background-color: pink;
+
+}
+ .first {
+     text-align: center;
+     background-color: black;
+     color:white;
+     text-decoration: blanchedalmond;
+ }
+ .second {
+     text-align: center;
+     background-color: aqua;
+     color: darkorchid;
+ }
+ .third {
+color: rgb(255, 47, 64);
+background-color: aquamarine;
+text-align: center;
+width: max-content;
+height: max-content;
+position: absolute;
+left: 600px;
+padding: 100px;
+border-style: groove;
+border-color: blueviolet;
+border-width: 35px;
+
+
+/* text-align: center; */
+ }
+ .pic {
+     height: 400px;
+     width: 400px;
+     left: 300px;
+     right: 500px;
+ }
+ .in {
+ background-color: wheat;    
+color: black;
+position: absolute;
+top: 35px;
+border-bottom: 1px;
+
+ }
+ .yes {
+background-color: wheat;
+color: navy;
+position: absolute;
+left: 60px;
+top: 35px;
+float: left;
+border-bottom: 1px;
